@@ -1,0 +1,25 @@
+[
+    {
+        "id": "54547676",
+        "nombre": "andres",
+        "apellidos": "perez",
+        "direccion": "fdhfffhg",
+        "acudiente": "luz",
+        "celular": "354954965",
+        "fijo": "60780870",
+        "estado": "inscrito",
+        "estado2": "aprobado",
+        "nota_teo": 85.0,
+        "nota_prac": 65.0,
+        "entrenador": null,
+        "ruta asignada": null,
+        "fecha inicio": null,
+        "fecha finalizacion": null,
+        "salon": null,
+        "preuba_prac": null,
+        "prueba_teo": null,
+        "resto trabajos": null,
+        "nota modulo": null,
+        "aprobar modulo": null
+    }
+]
